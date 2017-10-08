@@ -1,0 +1,7 @@
+C:\Users\serba\source\repos\hots\hots\obj\Debug\hots.csprojResolveAssemblyReference.cache
+C:\Users\serba\source\repos\hots\hots\obj\Debug\hots.csproj.CoreCompileInputs.cache
+C:\Users\serba\source\repos\hots\hots\bin\Debug\hots.exe.config
+C:\Users\serba\source\repos\hots\hots\bin\Debug\hots.exe
+C:\Users\serba\source\repos\hots\hots\bin\Debug\hots.pdb
+C:\Users\serba\source\repos\hots\hots\obj\Debug\hots.exe
+C:\Users\serba\source\repos\hots\hots\obj\Debug\hots.pdb
